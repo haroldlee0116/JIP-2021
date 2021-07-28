@@ -1,0 +1,22 @@
+{
+   "Version": "Husky_hat_1",
+   "Sensors": [ 
+   {
+    "HwID": "00000cfeb9d3",
+    "color": "black",
+    "location": "outside corner 1",
+    "temperature": "waiting for update",
+    "humidity": "unknown",
+    "time": "2-19-1-1 1:01",
+    "Pin ID": "12"
+  },
+  {
+    "HwID": "3c01d0752150",
+    "color": "grey",
+    "location": "inside corner 1",
+    "temperature": "waiting for update",
+    "humidity": "unknown",
+    "time": "2-19-1-1 1:01",
+    "Pin ID": "25"
+  }]
+}
